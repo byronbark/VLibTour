@@ -1,0 +1,16 @@
+**/*.class
+**/bin/
+**/target/
+**/.project
+**/.classpath
+**/workspace
+**/.metadata
+**/.settings
+**/doc
+**/.checkstyle
+**/*~
+**/*.aux
+**/*.log
+**/*.toc
+**/*.iml
+**/.idea
